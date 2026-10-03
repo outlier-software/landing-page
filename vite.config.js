@@ -7,7 +7,7 @@ import { fileURLToPath } from 'url'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
 export default defineConfig({
-  base: '/outliersoftware/',
+  base: '/landing-page/',
   plugins: [
     react(),
     {
