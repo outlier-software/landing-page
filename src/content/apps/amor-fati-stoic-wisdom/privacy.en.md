@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**Amor Fati: Stoic Wisdom** · Last updated: October 2, 2026
+**Amor Fati: Stoic Wisdom** · Version 2 · Last updated: October 5, 2026
 
 This policy explains what information the Amor Fati: Stoic Wisdom app for Android ("the app") handles, where it is kept, who can see it and what you can do about it.
 
 ## Summary
 
 - Most of what you do in the app stays on your phone.
-- Your progress, journal and night exams are copied to the cloud only if you have Premium **and** you sign in with Google.
+- Your progress, journal and night exams are copied to the cloud only if you have Premium, sign in with Google **and** give us your permission. You can withdraw it at any time.
 - The app has no ads and no analytics or tracking tools. We don't sell your information or share it for advertising.
 - You can ask us to delete your account and your cloud data at any time.
 
@@ -33,18 +33,21 @@ We cannot see any of this. It is not sent to us unless you use cloud backup (see
 - **Reminders.** Notifications are scheduled on your phone; nothing is sent to us to show them. Some reminders show a short excerpt of a past journal entry.
 - **Sharing and exporting.** When you share a quote as an image or export your journal as a PDF, the file is created on your phone and goes only where you choose to send or save it.
 
-## Information stored in the cloud (Premium with Google sign-in)
+## Information stored in the cloud (Premium, Google sign-in and your permission)
 
-If you have Premium and sign in with your Google account, the app keeps a copy of your data in the cloud so you can restore it on a new phone and use it on more than one device. We store:
+If you have Premium and sign in with your Google account, the app first asks for your permission and copies nothing until you give it. With your permission, the app keeps a copy of your data in the cloud so you can restore it on a new phone and use it on more than one device. We store:
 
 - **Your account,** through Firebase Authentication: the email address, name and profile photo link of your Google account, and a user ID that Firebase assigns to you.
 - **Your progress:** your streak and the date of your last visit, which quotes you have not seen yet and the last author shown, your highest rank, and two settings (sound on or off, and whether you have seen the tips).
 - **Your journal:** for each day, the text you wrote and the quote it belongs to.
 - **Your night exams:** for each day, your three answers.
+- **Your permission:** whether you gave or withdrew it, when, and the version and language of the text you accepted. It is our record of your consent.
 
 This data is stored in Google Cloud Firestore, on servers in the United States. It is saved under your user ID, and the database rules only let your signed-in account read or write it.
 
-If your Premium ends, the app stops uploading new changes. What is already in the cloud stays there until you ask us to delete it.
+If your Premium ends, the app stops uploading new changes. What is already in the cloud stays there until you turn off cloud backup or delete your account.
+
+You can withdraw your permission at any time in Profile > Turn off cloud backup. The app then stops syncing on all your phones and deletes your progress, journal and night exams from the cloud right away. Your phones keep everything they have. Withdrawing your permission doesn't affect what was done before.
 
 ## Purchases
 
@@ -77,11 +80,12 @@ Your data travels encrypted between your phone and Google's servers, and Google 
 
 ## Why we use your data (legal bases)
 
-If the GDPR (European Union, United Kingdom) or the LGPD (Brazil) applies to you, these are our legal bases:
+These are our legal bases under Chile's personal data protection law (Law 19.628, as amended by Law 21.719), the GDPR (European Union, United Kingdom) and the LGPD (Brazil):
 
-- **To provide the service you asked for** (performance of a contract): saving and syncing your data when you use cloud backup, and checking your subscription.
+- **Your express consent,** for the cloud copy of your progress, journal and night exams. What you write can reveal your health, your beliefs or your intimate life, which the law treats as sensitive data, so we only copy it with your explicit permission. You can withdraw it at any time in Profile; withdrawing it doesn't affect what was done before.
+- **To provide the service you asked for** (performance of a contract): your account and checking your subscription.
 - **Our legitimate interests:** keeping the app working and secure, and adjusting its settings remotely.
-- **Legal obligations,** such as answering requests from authorities.
+- **Legal obligations,** such as keeping the record of your consent and answering requests from authorities.
 
 We don't use your data for any other purpose, and we never use your journal or night exams to profile you.
 
@@ -92,14 +96,15 @@ Cloud data is stored in the United States. If you live elsewhere, your data is t
 ## How long we keep your data
 
 - **On your phone:** until you delete it, clear the app's storage or uninstall the app.
-- **In the cloud:** while your account exists. If you delete your account from the app, it and your cloud data are deleted right away; if you ask us by email, within 30 days. We don't keep backup copies of the database, so deleted data cannot be recovered.
+- **In the cloud:** while cloud backup is on and your account exists. If you turn off cloud backup, your progress, journal and night exams are deleted from the cloud right away. If you delete your account from the app, it and all your cloud data are deleted right away; if you ask us by email, within 30 days. The record of your permission is kept until your account is deleted. We don't keep backup copies of the database, so deleted data cannot be recovered.
 - **Purchase records** are kept by Google Play under its own policies.
 
 ## Your rights
 
-Depending on where you live, you may have the right to access your data, correct it, delete it, receive a copy of it, object to or restrict how we use it, and complain to your data protection authority.
+Depending on where you live, you may have the right to access your data, correct it, delete it, receive a copy of it, object to or restrict how we use it, withdraw your consent, and complain to your data protection authority. In Chile, that authority is the Agencia de Protección de Datos Personales.
 
 - You can see and edit your journal and night exams in the app at any time, and export them as a PDF.
+- To withdraw your permission for the cloud copy, go to Profile > Turn off cloud backup in the app.
 - To delete your account and your cloud data, go to Profile > Delete my account in the app, or follow the steps in [How to delete your account](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=en).
 - For anything else, email us. We may ask you to write from your Google account's email address so we can confirm the request is yours. We will answer within 30 days.
 

@@ -1,6 +1,6 @@
 # Exclua sua conta e seus dados
 
-**Amor Fati: Stoic Wisdom** · Desenvolvido por Outlier Software · Última atualização: 2 de outubro de 2026
+**Amor Fati: Stoic Wisdom** · Desenvolvido por Outlier Software · Última atualização: 5 de outubro de 2026
 
 *Esta é uma tradução. Se houver diferenças em relação à [versão em inglês](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=en), prevalece a versão em inglês.*
 
@@ -22,6 +22,7 @@ Excluiremos seus dados em até 30 dias e responderemos para confirmar quando est
 - **Sua conta:** o e-mail, o nome, o link da foto de perfil e o identificador de usuário guardados pelo Firebase Authentication.
 - **Seu progresso** guardado na nuvem: sequência, nível e configurações relacionadas.
 - **Todas as entradas do diário e todos os exames da noite** guardados na nuvem.
+- **O registro da sua permissão** para o backup na nuvem.
 
 Não guardamos cópias de segurança do banco de dados, então, depois de excluídos, esses dados não podem ser recuperados.
 

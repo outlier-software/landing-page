@@ -1,6 +1,6 @@
 # Borra tu cuenta y tus datos
 
-**Amor Fati: Stoic Wisdom** · Desarrollada por Outlier Software · Última actualización: 2 de octubre de 2026
+**Amor Fati: Stoic Wisdom** · Desarrollada por Outlier Software · Última actualización: 5 de octubre de 2026
 
 *Esta es una traducción. Si hay diferencias con la [versión en inglés](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=en), prevalece la versión en inglés.*
 
@@ -22,6 +22,7 @@ Borraremos tus datos en un plazo de 30 días y te responderemos para confirmar q
 - **Tu cuenta:** el correo, el nombre, el enlace a la foto de perfil y el identificador de usuario que guarda Firebase Authentication.
 - **Tu progreso** guardado en la nube: racha, rango y ajustes relacionados.
 - **Todas las entradas del diario y los exámenes de la noche** guardados en la nube.
+- **El registro de tu permiso** para la copia en la nube.
 
 No guardamos copias de seguridad de la base de datos, así que, una vez borrados, estos datos no se pueden recuperar.
 
