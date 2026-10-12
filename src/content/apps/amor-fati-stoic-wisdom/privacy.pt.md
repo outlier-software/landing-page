@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-**Amor Fati: Stoic Wisdom** · Última atualização: 2 de outubro de 2026
+**Amor Fati: Stoic Wisdom** · Versão 2 · Última atualização: 5 de outubro de 2026
 
 *Esta é uma tradução. Se houver diferenças em relação à [versão em inglês](#/android/app/amor-fati-stoic-wisdom/privacy?lang=en), prevalece a versão em inglês.*
 
@@ -9,7 +9,7 @@ Esta política explica quais informações o app Amor Fati: Stoic Wisdom para An
 ## Resumo
 
 - Quase tudo o que você faz no app fica no seu celular.
-- Seu progresso, seu diário e seus exames da noite são copiados para a nuvem somente se você tiver o Premium **e** tiver entrado com o Google.
+- Seu progresso, seu diário e seus exames da noite são copiados para a nuvem somente se você tiver o Premium, tiver entrado com o Google **e** nos der sua permissão. Você pode retirá-la quando quiser.
 - O app não tem anúncios nem ferramentas de análise ou rastreamento. Não vendemos suas informações nem as compartilhamos para fins de publicidade.
 - Você pode nos pedir a qualquer momento que excluamos sua conta e seus dados da nuvem.
 
@@ -35,18 +35,21 @@ Nós não podemos ver nada disso. Nada é enviado para nós, a menos que você u
 - **Lembretes.** As notificações são programadas no seu celular; nada é enviado para nós para exibi-las. Alguns lembretes mostram um pequeno trecho de uma entrada antiga do seu diário.
 - **Compartilhar e exportar.** Quando você compartilha uma frase como imagem ou exporta seu diário em PDF, o arquivo é criado no seu celular e só vai para onde você decidir enviá-lo ou salvá-lo.
 
-## O que fica na nuvem (Premium com login do Google)
+## O que fica na nuvem (Premium, login do Google e sua permissão)
 
-Se você tiver o Premium e entrar com sua Conta do Google, o app guarda uma cópia dos seus dados na nuvem para que você possa restaurá-los em um celular novo e usá-los em mais de um dispositivo. Guardamos:
+Se você tiver o Premium e entrar com sua Conta do Google, o app pede antes a sua permissão e não copia nada até que você a dê. Com a sua permissão, o app guarda uma cópia dos seus dados na nuvem para que você possa restaurá-los em um celular novo e usá-los em mais de um dispositivo. Guardamos:
 
 - **Sua conta,** por meio do Firebase Authentication: o e-mail, o nome e o link da foto de perfil da sua Conta do Google, e um identificador de usuário atribuído pelo Firebase.
 - **Seu progresso:** sua sequência e a data da sua última visita, as frases que você ainda não viu e o último autor exibido, seu nível mais alto e duas configurações (se o som está ligado e se você já viu as dicas).
 - **Seu diário:** para cada dia, o texto que você escreveu e a frase a que ele corresponde.
 - **Seus exames da noite:** para cada dia, suas três respostas.
+- **Sua permissão:** se você a deu ou a retirou, quando, e a versão e o idioma do texto que você aceitou. É o nosso registro do seu consentimento.
 
 Esses dados são guardados no Google Cloud Firestore, em servidores nos Estados Unidos. Eles ficam vinculados ao seu identificador de usuário, e as regras do banco de dados só permitem que a sua conta, com login feito, os leia ou altere.
 
-Se o seu Premium terminar, o app deixa de enviar novas alterações. O que já está na nuvem continua lá até que você nos peça para excluir.
+Se o seu Premium terminar, o app deixa de enviar novas alterações. O que já está na nuvem continua lá até que você desative o backup ou exclua sua conta.
+
+Você pode retirar sua permissão quando quiser em Perfil > Desativar backup na nuvem. O app então deixa de sincronizar em todos os seus celulares e exclui da nuvem, na hora, seu progresso, seu diário e seus exames da noite. Seus celulares guardam tudo o que têm. Retirar a permissão não afeta o que foi feito antes.
 
 ## Compras
 
@@ -79,11 +82,12 @@ Seus dados trafegam criptografados entre o seu celular e os servidores do Google
 
 ## Para que usamos seus dados (bases legais)
 
-Se a LGPD (Brasil) ou o RGPD (União Europeia, Reino Unido) se aplica a você, estas são as nossas bases legais:
+Estas são as nossas bases legais segundo a lei chilena de proteção de dados pessoais (lei 19.628, modificada pela lei 21.719), a LGPD (Brasil) e o RGPD (União Europeia, Reino Unido):
 
-- **Prestar o serviço que você pediu** (execução de contrato): guardar e sincronizar seus dados quando você usa o backup na nuvem, e verificar sua assinatura.
+- **Seu consentimento expresso,** para a cópia na nuvem do seu progresso, do seu diário e dos seus exames da noite. O que você escreve pode falar da sua saúde, das suas crenças ou da sua vida íntima, que a lei trata como dados sensíveis, então só copiamos com a sua permissão explícita. Você pode retirá-la quando quiser em Perfil; retirá-la não afeta o que foi feito antes.
+- **Prestar o serviço que você pediu** (execução de contrato): sua conta e a verificação da sua assinatura.
 - **Nosso legítimo interesse:** manter o app funcionando e seguro, e ajustar suas opções remotamente.
-- **Obrigações legais,** como responder a solicitações de autoridades.
+- **Obrigações legais,** como guardar o registro do seu consentimento e responder a solicitações de autoridades.
 
 Não usamos seus dados para nenhuma outra finalidade, e nunca usamos seu diário nem seus exames da noite para traçar seu perfil.
 
@@ -94,14 +98,15 @@ Os dados da nuvem são guardados nos Estados Unidos. Se você mora em outro paí
 ## Por quanto tempo guardamos seus dados
 
 - **No seu celular:** até que você os apague, limpe o armazenamento do app ou desinstale o app.
-- **Na nuvem:** enquanto sua conta existir. Se você excluir sua conta pelo app, ela é excluída junto com seus dados da nuvem na hora; se você pedir por e-mail, em até 30 dias. Não guardamos cópias de segurança do banco de dados, então os dados excluídos não podem ser recuperados.
+- **Na nuvem:** enquanto o backup estiver ativado e sua conta existir. Se você desativar o backup, seu progresso, seu diário e seus exames da noite são excluídos da nuvem na hora. Se você excluir sua conta pelo app, ela é excluída junto com todos os seus dados da nuvem na hora; se você pedir por e-mail, em até 30 dias. O registro da sua permissão é guardado até que sua conta seja excluída. Não guardamos cópias de segurança do banco de dados, então os dados excluídos não podem ser recuperados.
 - **Os registros de compra** são guardados pelo Google Play conforme as políticas dele.
 
 ## Seus direitos
 
-Dependendo de onde você mora, você pode ter o direito de acessar seus dados, corrigi-los, excluí-los, receber uma cópia, se opor ao uso que fazemos deles ou restringi-lo, e apresentar reclamação à autoridade de proteção de dados do seu país.
+Dependendo de onde você mora, você pode ter o direito de acessar seus dados, corrigi-los, excluí-los, receber uma cópia, se opor ao uso que fazemos deles ou restringi-lo, retirar seu consentimento e apresentar reclamação à autoridade de proteção de dados do seu país. No Chile, essa autoridade é a Agencia de Protección de Datos Personales.
 
 - Você pode ver e editar seu diário e seus exames da noite no app a qualquer momento, e exportá-los em PDF.
+- Para retirar sua permissão para a cópia na nuvem, vá em Perfil > Desativar backup na nuvem no app.
 - Para excluir sua conta e seus dados da nuvem, vá em Perfil > Excluir minha conta no app, ou siga os passos de [Como excluir sua conta](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=pt).
 - Para qualquer outra coisa, escreva para nós. Podemos pedir que você escreva a partir do e-mail da sua Conta do Google para confirmar que o pedido é seu. Responderemos em até 30 dias.
 
