@@ -1,12 +1,12 @@
 # Terms of Use
 
-**Amor Fati: Stoic Wisdom** · Last updated: October 2, 2026
+**Amor Fati: Stoic Wisdom** · Last updated: October 13, 2026
 
 These terms are an agreement between you and Benjamín Flores, an individual based in Chile who develops the app under the name Outlier Software ("we", "us"). They apply when you download or use the Amor Fati: Stoic Wisdom app for Android ("the app"). By using the app, you accept them. If you don't, please don't use it.
 
 ## Who can use the app
 
-You must be at least 16 years old to use the app.
+You must be at least 18 years old to use the app.
 
 ## Your license
 
