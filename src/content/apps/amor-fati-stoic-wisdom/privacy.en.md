@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Amor Fati: Stoic Wisdom** · Last updated: October 2, 2026
+**Amor Fati: Stoic Wisdom** · Last updated: October 13, 2026
 
 This policy explains what information the Amor Fati: Stoic Wisdom app for Android ("the app") handles, where it is kept, who can see it and what you can do about it.
 
@@ -107,7 +107,7 @@ If you live in California: we do not sell or share your personal information, as
 
 ## Children
 
-The app is not intended for anyone under 16. We do not knowingly collect personal information from people under 16. If you believe someone under 16 has given us personal information, email us and we will delete it.
+The app is not intended for anyone under 18. We do not knowingly collect personal information from people under 18. If you believe someone under 18 has given us personal information, email us and we will delete it.
 
 ## Security
 

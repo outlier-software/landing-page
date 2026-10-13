@@ -1,6 +1,6 @@
 # Termos de Uso
 
-**Amor Fati: Stoic Wisdom** · Última atualização: 2 de outubro de 2026
+**Amor Fati: Stoic Wisdom** · Última atualização: 13 de outubro de 2026
 
 *Esta é uma tradução. Se houver diferenças em relação à [versão em inglês](#/android/app/amor-fati-stoic-wisdom/terms?lang=en), prevalece a versão em inglês.*
 
@@ -8,7 +8,7 @@ Estes termos são um acordo entre você e Benjamín Flores, pessoa física resid
 
 ## Quem pode usar o app
 
-Você precisa ter pelo menos 16 anos para usar o app.
+Você precisa ter pelo menos 18 anos para usar o app.
 
 ## Sua licença
 

@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-**Amor Fati: Stoic Wisdom** · Última atualização: 2 de outubro de 2026
+**Amor Fati: Stoic Wisdom** · Última atualização: 13 de outubro de 2026
 
 *Esta é uma tradução. Se houver diferenças em relação à [versão em inglês](#/android/app/amor-fati-stoic-wisdom/privacy?lang=en), prevalece a versão em inglês.*
 
@@ -109,7 +109,7 @@ Se você mora na Califórnia: não vendemos nem compartilhamos suas informaçõe
 
 ## Menores de idade
 
-O app não é destinado a menores de 16 anos. Não coletamos intencionalmente informações pessoais de menores de 16 anos. Se você acredita que um menor de 16 anos nos forneceu informações pessoais, escreva para nós e as excluiremos.
+O app não é destinado a menores de 18 anos. Não coletamos intencionalmente informações pessoais de menores de 18 anos. Se você acredita que um menor de 18 anos nos forneceu informações pessoais, escreva para nós e as excluiremos.
 
 ## Segurança
 
