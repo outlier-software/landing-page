@@ -1,6 +1,6 @@
 # Política de privacidad
 
-**Amor Fati: Stoic Wisdom** · Última actualización: 13 de octubre de 2026
+**Amor Fati: Stoic Wisdom** · Versión 2 · Última actualización: 13 de octubre de 2026
 
 *Esta es una traducción. Si hay diferencias con la [versión en inglés](#/android/app/amor-fati-stoic-wisdom/privacy?lang=en), prevalece la versión en inglés.*
 
@@ -9,7 +9,7 @@ Esta política explica qué información maneja la app Amor Fati: Stoic Wisdom p
 ## Resumen
 
 - Casi todo lo que haces en la app se queda en tu teléfono.
-- Tu progreso, tu diario y tus exámenes de la noche se copian en la nube solo si tienes Premium **y** has iniciado sesión con Google.
+- Tu progreso, tu diario y tus exámenes de la noche se copian en la nube solo si tienes Premium, has iniciado sesión con Google **y** nos das tu permiso. Puedes retirarlo cuando quieras.
 - La app no tiene anuncios ni herramientas de analítica o seguimiento. No vendemos tu información ni la compartimos con fines publicitarios.
 - Puedes pedirnos en cualquier momento que borremos tu cuenta y tus datos de la nube.
 
@@ -35,18 +35,21 @@ Nosotros no podemos ver nada de esto. No se nos envía a menos que uses la copia
 - **Recordatorios.** Las notificaciones se programan en tu teléfono; no se nos envía nada para mostrarlas. Algunos recordatorios muestran un fragmento breve de una entrada antigua de tu diario.
 - **Compartir y exportar.** Cuando compartes una cita como imagen o exportas tu diario en PDF, el archivo se crea en tu teléfono y solo va adonde tú decidas enviarlo o guardarlo.
 
-## Lo que se guarda en la nube (Premium con sesión de Google)
+## Lo que se guarda en la nube (Premium, sesión de Google y tu permiso)
 
-Si tienes Premium e inicias sesión con tu cuenta de Google, la app guarda una copia de tus datos en la nube para que puedas restaurarlos en un teléfono nuevo y usarlos en más de un dispositivo. Guardamos:
+Si tienes Premium e inicias sesión con tu cuenta de Google, la app te pide antes tu permiso y no copia nada hasta que lo das. Con tu permiso, la app guarda una copia de tus datos en la nube para que puedas restaurarlos en un teléfono nuevo y usarlos en más de un dispositivo. Guardamos:
 
 - **Tu cuenta,** a través de Firebase Authentication: el correo, el nombre y el enlace a la foto de perfil de tu cuenta de Google, y un identificador de usuario que te asigna Firebase.
 - **Tu progreso:** tu racha y la fecha de tu última visita, las citas que aún no has visto y el último autor mostrado, tu rango más alto y dos ajustes (si el sonido está activado y si ya viste los consejos).
 - **Tu diario:** para cada día, el texto que escribiste y la cita a la que corresponde.
 - **Tus exámenes de la noche:** para cada día, tus tres respuestas.
+- **Tu permiso:** si lo diste o lo retiraste, cuándo, y la versión y el idioma del texto que aceptaste. Es nuestro registro de tu consentimiento.
 
 Estos datos se guardan en Google Cloud Firestore, en servidores de Estados Unidos. Quedan asociados a tu identificador de usuario, y las reglas de la base de datos solo permiten que tu cuenta, con la sesión iniciada, los lea o los modifique.
 
-Si tu Premium termina, la app deja de subir cambios nuevos. Lo que ya está en la nube se queda ahí hasta que nos pidas borrarlo.
+Si tu Premium termina, la app deja de subir cambios nuevos. Lo que ya está en la nube se queda ahí hasta que desactives la copia o borres tu cuenta.
+
+Puedes retirar tu permiso cuando quieras en Perfil > Desactivar copia en la nube. La app deja entonces de sincronizar en todos tus teléfonos y borra de la nube, en el momento, tu progreso, tu diario y tus exámenes de la noche. Tus teléfonos conservan todo lo que tienen. Retirar el permiso no afecta a lo que se hizo antes.
 
 ## Compras
 
@@ -79,11 +82,12 @@ Tus datos viajan cifrados entre tu teléfono y los servidores de Google, y Googl
 
 ## Para qué usamos tus datos (bases legales)
 
-Si te aplica el RGPD (Unión Europea, Reino Unido) o la LGPD (Brasil), estas son nuestras bases legales:
+Estas son nuestras bases legales según la ley chilena de protección de datos personales (ley 19.628, modificada por la ley 21.719), el RGPD (Unión Europea, Reino Unido) y la LGPD (Brasil):
 
-- **Prestar el servicio que pediste** (ejecución de un contrato): guardar y sincronizar tus datos cuando usas la copia en la nube, y comprobar tu suscripción.
+- **Tu consentimiento expreso,** para la copia en la nube de tu progreso, tu diario y tus exámenes de la noche. Lo que escribes puede hablar de tu salud, tus creencias o tu vida íntima, que la ley trata como datos sensibles, así que solo lo copiamos con tu permiso explícito. Puedes retirarlo cuando quieras en Perfil; retirarlo no afecta a lo que se hizo antes.
+- **Prestar el servicio que pediste** (ejecución de un contrato): tu cuenta y la comprobación de tu suscripción.
 - **Nuestro interés legítimo:** mantener la app funcionando y segura, y ajustar sus opciones a distancia.
-- **Obligaciones legales,** como responder a requerimientos de las autoridades.
+- **Obligaciones legales,** como guardar el registro de tu consentimiento y responder a requerimientos de las autoridades.
 
 No usamos tus datos para ningún otro fin, y nunca usamos tu diario ni tus exámenes de la noche para elaborar perfiles sobre ti.
 
@@ -94,14 +98,15 @@ Los datos de la nube se guardan en Estados Unidos. Si vives en otro país, tus d
 ## Cuánto tiempo guardamos tus datos
 
 - **En tu teléfono:** hasta que los borres, borres el almacenamiento de la app o la desinstales.
-- **En la nube:** mientras exista tu cuenta. Si borras tu cuenta desde la app, se borra junto con tus datos de la nube en el momento; si nos lo pides por correo, en un plazo de 30 días. No guardamos copias de seguridad de la base de datos, así que los datos borrados no se pueden recuperar.
+- **En la nube:** mientras la copia esté activada y exista tu cuenta. Si desactivas la copia, tu progreso, tu diario y tus exámenes de la noche se borran de la nube en el momento. Si borras tu cuenta desde la app, se borra junto con todos tus datos de la nube en el momento; si nos lo pides por correo, en un plazo de 30 días. El registro de tu permiso se guarda hasta que se borra tu cuenta. No guardamos copias de seguridad de la base de datos, así que los datos borrados no se pueden recuperar.
 - **Los registros de compra** los guarda Google Play según sus propias políticas.
 
 ## Tus derechos
 
-Según dónde vivas, puedes tener derecho a acceder a tus datos, corregirlos, borrarlos, recibir una copia, oponerte a que los usemos o limitar ese uso, y reclamar ante la autoridad de protección de datos de tu país.
+Según dónde vivas, puedes tener derecho a acceder a tus datos, corregirlos, borrarlos, recibir una copia, oponerte a que los usemos o limitar ese uso, retirar tu consentimiento y reclamar ante la autoridad de protección de datos de tu país. En Chile, esa autoridad es la Agencia de Protección de Datos Personales.
 
 - Puedes ver y editar tu diario y tus exámenes de la noche en la app en cualquier momento, y exportarlos en PDF.
+- Para retirar tu permiso para la copia en la nube, ve a Perfil > Desactivar copia en la nube en la app.
 - Para borrar tu cuenta y tus datos de la nube, ve a Perfil > Borrar mi cuenta en la app, o sigue los pasos de [Cómo borrar tu cuenta](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=es).
 - Para cualquier otra cosa, escríbenos. Es posible que te pidamos escribir desde el correo de tu cuenta de Google para confirmar que la solicitud es tuya. Te responderemos en un plazo de 30 días.
 

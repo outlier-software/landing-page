@@ -1,6 +1,6 @@
 # Delete your account and data
 
-**Amor Fati: Stoic Wisdom** · Developed by Outlier Software · Last updated: October 2, 2026
+**Amor Fati: Stoic Wisdom** · Developed by Outlier Software · Last updated: October 13, 2026
 
 This page explains how to delete your Amor Fati account and the data you have stored in the cloud.
 
@@ -20,6 +20,7 @@ We will delete your data within 30 days and reply to confirm when it's done.
 - **Your account:** the email address, name, profile photo link and user ID stored by Firebase Authentication.
 - **Your progress** stored in the cloud: streak, rank and related settings.
 - **Every journal entry and night exam** stored in the cloud.
+- **The record of your permission** for cloud backup.
 
 We don't keep backup copies of the database, so once deleted, this data cannot be recovered.
 
