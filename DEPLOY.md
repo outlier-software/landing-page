@@ -228,3 +228,18 @@ npx gh-pages -d dist
 ```
 
 Luego en GitHub: **Settings** → **Pages** → Source: rama **gh-pages**, carpeta **/ (root)**.
+
+---
+
+## Enlaces cortos de Amor Fati
+
+Las carpetas de `public/amorfati/` se publican tal cual. Cada una redirige al instante a la ficha de Google Play con el UTM de su red, así Play Console separa de dónde llegan las visitas:
+
+| Enlace | Fuente en Play Console |
+|---|---|
+| `https://outlier-software.github.io/landing-page/amorfati/` | `web` |
+| `https://outlier-software.github.io/landing-page/amorfati/tiktok/` | `tiktok` |
+| `https://outlier-software.github.io/landing-page/amorfati/instagram/` | `instagram` |
+| `https://outlier-software.github.io/landing-page/amorfati/youtube/` | `youtube` |
+
+Para agregar otro, copia una carpeta y cambia el `utm_source` en sus dos apariciones: el `meta refresh` y el enlace «Toca aquí si no se abre». Comparte los enlaces con la barra final (`/tiktok/`); sin ella, GitHub Pages hace un salto extra antes de redirigir.
