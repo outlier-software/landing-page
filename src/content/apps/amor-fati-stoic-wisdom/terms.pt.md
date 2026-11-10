@@ -27,6 +27,14 @@ O app é gratuito. Alguns recursos exigem uma assinatura Premium.
 - Se o preço mudar, o Google Play avisará você antes que a mudança seja aplicada, como exigem as regras dele.
 - Desinstalar o app ou excluir sua conta não cancela sua assinatura.
 
+## Teste gratuito
+
+Às vezes o Premium é oferecido com um teste gratuito. Antes de começar, o app mostra quanto tempo ele dura e quanto o Premium vai custar depois.
+
+- Só pode usá-lo quem nunca teve o Premium. O Google Play decide quem pode.
+- Se você não cancelar antes do fim do teste, o Google Play cobra a assinatura automaticamente e ela se renova como qualquer outra.
+- Você pode cancelar durante o teste no Google Play, em [Pagamentos e assinaturas](https://play.google.com/store/account/subscriptions), e não será cobrado.
+
 ## Seu conteúdo
 
 O que você escreve no seu diário e nos seus exames da noite é seu. Não reivindicamos nenhum direito sobre isso. Você nos permite guardar e copiar esse conteúdo somente na medida necessária para prestar o serviço, por exemplo, para fazer o backup e sincronizá-lo quando você usa o backup na nuvem. Nossa [Política de Privacidade](#/android/app/amor-fati-stoic-wisdom/privacy?lang=pt) explica como o tratamos.
