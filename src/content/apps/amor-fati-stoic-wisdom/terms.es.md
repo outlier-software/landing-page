@@ -1,6 +1,6 @@
 # Términos de uso
 
-**Amor Fati: Stoic Wisdom** · Última actualización: 13 de octubre de 2026
+**Amor Fati: Stoic Wisdom** · Última actualización: 10 de noviembre de 2026
 
 *Esta es una traducción. Si hay diferencias con la [versión en inglés](#/android/app/amor-fati-stoic-wisdom/terms?lang=en), prevalece la versión en inglés.*
 
@@ -73,4 +73,4 @@ Podemos actualizar estos términos. Publicaremos la nueva versión en esta pági
 
 ## Contacto
 
-Si tienes preguntas sobre estos términos, escribe a [benjamin.floresjv@gmail.com](mailto:benjamin.floresjv@gmail.com).
+Si tienes preguntas sobre estos términos, escribe a [outlier.software.apps@gmail.com](mailto:outlier.software.apps@gmail.com).

@@ -1,6 +1,6 @@
 # Exclua sua conta e seus dados
 
-**Amor Fati: Stoic Wisdom** · Desenvolvido por Outlier Software · Última atualização: 13 de outubro de 2026
+**Amor Fati: Stoic Wisdom** · Desenvolvido por Outlier Software · Última atualização: 10 de novembro de 2026
 
 *Esta é uma tradução. Se houver diferenças em relação à [versão em inglês](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=en), prevalece a versão em inglês.*
 
@@ -13,7 +13,7 @@ No app, vá em **Perfil > Excluir minha conta**. Você confirma com sua Conta do
 ## Por e-mail
 
 1. **Saia da sua conta no app** em todos os celulares onde você o usa (Perfil > Sair), ou desinstale o app. Caso contrário, o app pode enviar de novo o que ainda está no seu celular depois que excluirmos tudo.
-2. **Envie um e-mail** para [benjamin.floresjv@gmail.com](mailto:benjamin.floresjv@gmail.com?subject=Excluir%20minha%20conta%20do%20Amor%20Fati) com o assunto "Excluir minha conta do Amor Fati". Envie a partir do e-mail da Conta do Google que você usa no app; é assim que encontramos sua conta e confirmamos que o pedido é seu. Se não puder escrever a partir desse endereço, diga isso no e-mail e encontraremos outra forma de confirmar que é você.
+2. **Envie um e-mail** para [outlier.software.apps@gmail.com](mailto:outlier.software.apps@gmail.com?subject=Excluir%20minha%20conta%20do%20Amor%20Fati) com o assunto "Excluir minha conta do Amor Fati". Envie a partir do e-mail da Conta do Google que você usa no app; é assim que encontramos sua conta e confirmamos que o pedido é seu. Se não puder escrever a partir desse endereço, diga isso no e-mail e encontraremos outra forma de confirmar que é você.
 
 Excluiremos seus dados em até 30 dias e responderemos para confirmar quando estiver feito.
 

@@ -1,6 +1,6 @@
 # Delete your account and data
 
-**Amor Fati: Stoic Wisdom** · Developed by Outlier Software · Last updated: October 13, 2026
+**Amor Fati: Stoic Wisdom** · Developed by Outlier Software · Last updated: November 10, 2026
 
 This page explains how to delete your Amor Fati account and the data you have stored in the cloud.
 
@@ -11,7 +11,7 @@ In the app, go to **Profile > Delete my account**. You'll confirm with your Goog
 ## By email
 
 1. **Sign out of the app** on every phone where you use it (Profile > Sign out), or uninstall it. Otherwise, the app could upload what is still on your phone again after we delete it.
-2. **Send an email** to [benjamin.floresjv@gmail.com](mailto:benjamin.floresjv@gmail.com?subject=Delete%20my%20Amor%20Fati%20account) with the subject "Delete my Amor Fati account". Send it from the email address of the Google account you use in the app; that's how we find your account and confirm the request is yours. If you can't write from that address, tell us in the email and we will find another way to verify it's you.
+2. **Send an email** to [outlier.software.apps@gmail.com](mailto:outlier.software.apps@gmail.com?subject=Delete%20my%20Amor%20Fati%20account) with the subject "Delete my Amor Fati account". Send it from the email address of the Google account you use in the app; that's how we find your account and confirm the request is yours. If you can't write from that address, tell us in the email and we will find another way to verify it's you.
 
 We will delete your data within 30 days and reply to confirm when it's done.
 

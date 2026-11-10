@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Amor Fati: Stoic Wisdom** · Last updated: October 13, 2026
+**Amor Fati: Stoic Wisdom** · Last updated: November 10, 2026
 
 These terms are an agreement between you and Benjamín Flores, an individual based in Chile who develops the app under the name Outlier Software ("we", "us"). They apply when you download or use the Amor Fati: Stoic Wisdom app for Android ("the app"). By using the app, you accept them. If you don't, please don't use it.
 
@@ -71,4 +71,4 @@ We may update these terms. We will publish the new version on this page with a n
 
 ## Contact
 
-If you have questions about these terms, email [benjamin.floresjv@gmail.com](mailto:benjamin.floresjv@gmail.com).
+If you have questions about these terms, email [outlier.software.apps@gmail.com](mailto:outlier.software.apps@gmail.com).
