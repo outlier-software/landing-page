@@ -1,6 +1,6 @@
 # Borra tu cuenta y tus datos
 
-**Amor Fati: Stoic Wisdom** · Desarrollada por Outlier Software · Última actualización: 13 de octubre de 2026
+**Amor Fati: Stoic Wisdom** · Desarrollada por Outlier Software · Última actualización: 10 de noviembre de 2026
 
 *Esta es una traducción. Si hay diferencias con la [versión en inglés](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=en), prevalece la versión en inglés.*
 
@@ -13,7 +13,7 @@ En la app, ve a **Perfil > Borrar mi cuenta**. Lo confirmas con tu cuenta de Goo
 ## Por correo
 
 1. **Cierra sesión en la app** en todos los teléfonos donde la uses (Perfil > Cerrar sesión), o desinstálala. Si no, la app podría volver a subir lo que sigue en tu teléfono después de que lo borremos.
-2. **Envía un correo** a [benjamin.floresjv@gmail.com](mailto:benjamin.floresjv@gmail.com?subject=Borrar%20mi%20cuenta%20de%20Amor%20Fati) con el asunto "Borrar mi cuenta de Amor Fati". Envíalo desde el correo de la cuenta de Google que usas en la app; así encontramos tu cuenta y confirmamos que la solicitud es tuya. Si no puedes escribir desde esa dirección, dínoslo en el correo y buscaremos otra forma de comprobar que eres tú.
+2. **Envía un correo** a [outlier.software.apps@gmail.com](mailto:outlier.software.apps@gmail.com?subject=Borrar%20mi%20cuenta%20de%20Amor%20Fati) con el asunto "Borrar mi cuenta de Amor Fati". Envíalo desde el correo de la cuenta de Google que usas en la app; así encontramos tu cuenta y confirmamos que la solicitud es tuya. Si no puedes escribir desde esa dirección, dínoslo en el correo y buscaremos otra forma de comprobar que eres tú.
 
 Borraremos tus datos en un plazo de 30 días y te responderemos para confirmar que está hecho.
 

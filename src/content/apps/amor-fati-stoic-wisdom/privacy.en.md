@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Amor Fati: Stoic Wisdom** · Version 2 · Last updated: October 13, 2026
+**Amor Fati: Stoic Wisdom** · Version 2 · Last updated: November 10, 2026
 
 This policy explains what information the Amor Fati: Stoic Wisdom app for Android ("the app") handles, where it is kept, who can see it and what you can do about it.
 
@@ -15,7 +15,7 @@ This policy explains what information the Amor Fati: Stoic Wisdom app for Androi
 
 The app is developed by Benjamín Flores, an individual based in Chile, under the name Outlier Software. He is the controller of the personal data described in this policy. In this policy, "we" and "us" mean him.
 
-Contact: [benjamin.floresjv@gmail.com](mailto:benjamin.floresjv@gmail.com)
+Contact: [outlier.software.apps@gmail.com](mailto:outlier.software.apps@gmail.com)
 
 ## Information that stays on your phone
 
@@ -124,4 +124,4 @@ When we change this policy, we will update this page and the date at the top. If
 
 ## Contact
 
-If you have questions about this policy or your data, email [benjamin.floresjv@gmail.com](mailto:benjamin.floresjv@gmail.com).
+If you have questions about this policy or your data, email [outlier.software.apps@gmail.com](mailto:outlier.software.apps@gmail.com).
