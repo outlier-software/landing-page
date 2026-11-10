@@ -25,6 +25,14 @@ The app is free to use. Some features require a Premium subscription.
 - If the price changes, Google Play will notify you before it applies, as its rules require.
 - Uninstalling the app or deleting your account does not cancel your subscription.
 
+## Free trial
+
+Premium is sometimes offered with a free trial. Before you start it, the app shows how long it lasts and what Premium will cost afterwards.
+
+- Only people who have never had Premium can use it. Google Play decides who is eligible.
+- If you don't cancel before the trial ends, Google Play charges the subscription automatically and it renews like any other.
+- You can cancel during the trial in Google Play, under [Payments & subscriptions](https://play.google.com/store/account/subscriptions), and you won't be charged.
+
 ## Your content
 
 What you write in your journal and night exams is yours. We claim no ownership over it. You allow us to store and copy it only as needed to provide the service, for example to back it up and sync it when you use cloud backup. Our [Privacy Policy](#/android/app/amor-fati-stoic-wisdom/privacy?lang=en) explains how we handle it.
